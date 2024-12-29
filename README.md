@@ -50,12 +50,17 @@ Para começar, clone o repositório para o seu computador:
 ```bash
 git clone https://github.com/sunHelen12/screenmatch-frases.git
 ```
-2. Executar o banco de dados
+### 2. Executar o banco de dados
 
 Dentro do projeto, você encontrará um arquivo SQL com a estrutura de banco de dados. Execute o arquivo SQL em seu banco de dados para importar as frases e pôsteres.
-3. Visualizar as frases
+
+### 3. Visualizar as frases
 
 Após importar o banco de dados, você pode consultar as frases usando SQL, ou pode criar uma aplicação para exibir as frases juntamente com seus pôsteres.
+
+### 4. Front do Projeto
+
+![image](https://github.com/user-attachments/assets/f0e59894-2b78-4a1d-9469-18b1329363e6)
 
 
 
